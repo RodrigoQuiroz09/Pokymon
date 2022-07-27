@@ -31,9 +31,6 @@
     <li>
       <a href="#requirements">Requirements</a>
     </li>
-    <li><a href="#gameplay-controls">Gameplay Controls</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
